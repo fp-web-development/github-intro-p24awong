@@ -1,0 +1,30 @@
+<h1 align="center">
+    Fairfield College Preparatory School<br>
+    Web Development – Mrs. Kinskey-Lebeda<br>
+    GitHub Intro
+</h1>
+
+<h2 align="center">Due before 8:30 AM on 2/2 (15 pts.)</h2>
+
+### GitHub Intro
+---
+Answer each of the following questions in an HTML file named `<hello-world>.html`. In your heading, put your name and the date you began working on the file.
+
+Follow the instructions on how to clone a repo & commit files.
+
+Copy the following code:
+
+<html>
+ <head>
+   <h1>TYPE HERE 1<h1>
+ </head>
+ <body>
+   <h1>TYPE HERE 2<h1>
+ </body>
+</html>
+
+
+Replace 'TYPE HERE 1' with your name
+Replace 'TYPE HERE 2' with HELLO WORLD
+
+<p align="center">Be sure to commit your code before the deadline. Only the latest commit will be graded.</p>
